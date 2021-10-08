@@ -6,3 +6,5 @@ Values are somewhat randomized to get the experience not too easy while on a new
 It's a short C++ study.
 
 ![image](https://user-images.githubusercontent.com/8191195/136543506-571c015e-1896-43cf-a3c5-0e3b7e304258.png)
+
+<a download="Build.zip" href="Build.zip"><b>Donwload Game</b></a>
